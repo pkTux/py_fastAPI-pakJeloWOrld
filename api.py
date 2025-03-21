@@ -1,6 +1,8 @@
 """
-//api.py
+created via the following YOUTUBE tutorials & a crash reading of creating python classes
 //https://www.youtube.com/watch?v=7vVKBRjFbeg
+https://www.youtube.com/watch?v=C-bie4ZY_o0
+used to test competency of creating API's and leveraging them in python over the course of 1 coding Binge
 """
 from fastapi import FastAPI
 
